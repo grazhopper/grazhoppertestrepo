@@ -1,4 +1,4 @@
-#!/bin/python
+#!/usr/bin/env python
 
 # vim: expandtab tw=75
 
