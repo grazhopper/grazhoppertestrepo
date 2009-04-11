@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print 'nieuw bestand'
+print 'aanpassing van nieuw bestand'
