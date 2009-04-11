@@ -4,3 +4,4 @@
 # vim: expandtab tw=75
 
 print 'hello world!'
+print ' +-> Hoera!!!
